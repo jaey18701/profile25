@@ -1,13 +1,12 @@
 
 TITLE:   
-Neat - 100% Fully Responsive Free HTML5 Bootstrap Template
-
+Profile 25
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Kolcetta.NG
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+
+LinkedIN: http://linkedin.com/in/james-iornumbe-806353224
+
 
 
 CREDITS:
